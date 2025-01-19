@@ -84,5 +84,5 @@
 
 <h3 align="center">📫 Reach Me:</h3>
 <p align="center">
-  📧alv247e@ttu.edu
+  📧alv247e@gmail.com
 </p>
