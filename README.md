@@ -5,7 +5,7 @@
 
 - 🔭 **Currently working on**: [Campus Giveaway](https://github.com/alvinh13)
 
-- 🌱 **Currently learning**: Java and AI-related tools like TensorFlow and PyTorch
+- 🌱 **Currently learning**: Node.js and AI-related Python libraries like scikit-learn and OpenCV
 
 - 🧠 **Skills**:
   - Programming Languages: **Python, C++, Java, JavaScript, HTML, CSS**
@@ -78,11 +78,26 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
   </a>
+  
+  <!-- scikit-learn -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  
+  <!-- OpenCV -->
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/logo/OpenCV-logo.png" alt="OpenCV" width="40" height="40"/> 
+  </a>
+  
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
 
 <h3 align="center">📫 Reach Me:</h3>
 <p align="center">
-  📧alv247e@gmail.com
+  📧 alv247e@gmail.com
 </p>
