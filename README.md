@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvin Hossain</h1>
-<h3 align="center">Aspiring Software Engineer and AI Developer based in Lubbock, Texas</h3>
+<h3 align="center">Aspiring Software Engineer and AI Developer </h3>
 
 ---
 
