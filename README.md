@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alvin Hossain</h1>
-<h3 align="center">Aspiring Software Engineer and AI Developer </h3>
 
 ---
 
-- 🔭 **Currently working on**: [Campus Giveaway](https://github.com/alvinh13)
 
-- 🌱 **Currently learning**: Node.js and AI-related Python libraries like scikit-learn and OpenCV
 
 - 🧠 **Skills**:
   - Programming Languages: **Python, C++, Java, JavaScript, HTML, CSS**
   - AI Tools & Libraries: **TensorFlow, PyTorch, NumPy, Pandas**
 
-- ⚡ **Fun Fact**: "All generalizations are false, including this one." – Donald Rumsfeld
 
 ---
 
